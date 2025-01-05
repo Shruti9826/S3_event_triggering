@@ -41,3 +41,5 @@ Automation: The project automates the process of notifying users, reducing manua
 Scalability: The architecture can handle a large number of users and file uploads.
 Cost-Effective: AWS Lambda's serverless nature ensures you only pay for the resources used during execution.
 Flexibility: The Python script in the Lambda function allows for easy customization and modification as per future requirements.
+
+![image](https://github.com/user-attachments/assets/9263ace3-5315-4e56-ae5e-039eebd07c44)
